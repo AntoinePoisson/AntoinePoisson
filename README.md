@@ -3,22 +3,19 @@
 </div>
 
 ---
+
 <h2 align="left"> 📊 Stats </h2>
 
-
-
 <div id="body">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinepoisson&locale=en&layout=compact&theme=chartreuse-dark" alt="langageStats" />
-  <img align="" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=antoinepoisson&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="profileStats" />
+  <img align="right" width="378" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinepoisson&locale=en&layout=compact&theme=chartreuse-dark" alt="langageStats" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=antoinepoisson&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="profileStats" />
 </div>
 
 <details>
   <summary>
     Click👆
   </summary>
-  <pre>
-    🤷‍♂️
-  </pre>
+  :trollface:
 </details>
 
 <div id="footer" align="center">
