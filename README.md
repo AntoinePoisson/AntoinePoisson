@@ -4,16 +4,24 @@
 
 ---
 
-Freelance software engineer specializing in Go and AWS serverless
-architectures, with end-to-end experience across backend, frontend,
-infrastructure and production.
+**Freelance Software Engineer · Go · AWS · React/Next.js**
 
-I build SaaS products, APIs, third-party integrations and reliable
-event-driven workflows.
+I design and ship backend-first, cloud-native products, from APIs and
+event-driven systems to web applications and production infrastructure.
+
+[LinkedIn](https://www.linkedin.com/in/antoine-poisson/) · Paris, France 🇫🇷
+
+## What I build
+
+- Backend services and production APIs with Go
+- Serverless and event-driven architectures on AWS
+- SaaS products and third-party integrations
+- React and Next.js applications
+- Infrastructure, CI/CD and observability
 
 ## Core stack
 
-Go · AWS · React · Next.js · TypeScript · Terraform · Docker
+`Go` · `AWS` · `TypeScript` · `React` · `Next.js` · `Terraform` · `Docker`
 <p>
   <img
     src="https://skillicons.dev/icons?i=go,aws,react,nextjs,ts,terraform,docker&theme=dark"
@@ -22,17 +30,13 @@ Go · AWS · React · Next.js · TypeScript · Terraform · Docker
 </p>
 
 
-## Currently
-
-Building production-oriented open-source examples around Go, AWS,
-Stripe and serverless architectures.
-
 ## Contact
 
-Based in Paris, France 🇫🇷
+The best way to reach me is through:
 [LinkedIn](https://www.linkedin.com/in/antoine-poisson/)
+
+---
 
 <div id="footer" align="center">
   <img src="https://github.com/AntoinePoisson/AntoinePoisson/blob/main/Snake.svg" width="1000" alt="Snake Joke" />
 </div>
-
