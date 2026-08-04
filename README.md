@@ -1,24 +1,25 @@
 <div id="header" align="center">
-  <img src="https://github.com/AntoinePoisson/AntoinePoisson/blob/main/Banner.png" width="1000" alt="headerImage" />
+  <img src="https://github.com/AntoinePoisson/AntoinePoisson/blob/main/Banner.gif" width="1000" alt="Hi I'm Antoine!" />
 </div>
 
 ---
 
-<h2 align="left"> 📊 Stats </h2>
+Freelance software engineer specializing in Go and AWS serverless
+architectures, with end-to-end experience across backend, frontend,
+infrastructure and production.
 
-<div id="body">
-  <img align="right" width="358" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinepoisson&locale=en&layout=compact&theme=chartreuse-dark" alt="langageStats" />
-  <img width="430" src="https://github-readme-streak-stats.herokuapp.com?user=antoinepoisson&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="profileStats" />
-</div>
+I build SaaS products, APIs, third-party integrations and reliable
+event-driven workflows.
 
-<details>
-  <summary>
-    Click👆
-  </summary>
-  :trollface:
-</details>
+## Core stack
 
-<div id="footer" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=antoinepoisson&label=Profile%20Views&color=brightgreen&style=flat" alt="view counter" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="1000" alt="footer" />
-</div>
+Go · AWS · React · Next.js · TypeScript · Terraform · Docker
+
+## Currently
+
+Building production-oriented open-source examples around Go, AWS,
+Stripe and serverless architectures.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/antoine-poisson/)
