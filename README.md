@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/AntoinePoisson/AntoinePoisson/blob/main/Banner.gif" width="1000" alt="Hi I'm Antoine!" />
+  <img src="./Banner.gif" width="1000" alt="Hi I'm Antoine!" />
 </div>
 
 ---
@@ -38,5 +38,5 @@ The best way to reach me is through:
 ---
 
 <div id="footer" align="center">
-  <img src="https://github.com/AntoinePoisson/AntoinePoisson/blob/main/Snake.svg" width="1000" alt="Snake Joke" />
+  <img src="./Snake.svg" width="1000" alt="Snake Joke" />
 </div>
