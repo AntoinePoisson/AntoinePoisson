@@ -21,7 +21,7 @@ event-driven systems to web applications and production infrastructure.
 
 ## Core stack
 
-`Go` · `AWS` · `TypeScript` · `React` · `Next.js` · `Terraform` · `Docker`
+`Go` · `AWS` · `React` · `Next.js` · `TypeScript` · `Terraform` · `Docker`
 <p>
   <img
     src="https://skillicons.dev/icons?i=go,aws,react,nextjs,ts,terraform,docker&theme=dark"
