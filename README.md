@@ -31,13 +31,13 @@ event-driven systems to web applications and production infrastructure.
 
 ## Beyond Work
 
-- [Finite Goods](https://github.com/AntoinePoisson/Finite-Goods) : 
+- <img src="./assets/Finite-Goods.svg" width="16" height="16" alt="Finite Goods" /> [Finite Goods](https://github.com/AntoinePoisson/Finite-Goods) : 
   Conflict-safe reservation engine with React + Go/WASM — **[Live demo ↗](https://antoinepoisson.github.io/Finite-Goods/)**
 
-- [Rusted Cube](https://github.com/AntoinePoisson/Rusted-Cube) :
+- <img src="./assets/Rusted-Cube.svg" width="16" height="16" alt="Rusted Cube" /> [Rusted Cube](https://github.com/AntoinePoisson/Rusted-Cube) :
   Rust/WASM voxel engine with raw WebGL2 and greedy meshing — **[Play ↗](https://antoinepoisson.github.io/Rusted-Cube/)**
 
-- [Old School Projects](https://github.com/AntoinePoisson/Old-School-Projects) : 108-project engineering archive, 2018–2023 — **[Explore ↗](https://antoinepoisson.github.io/Old-School-Projects/)**
+- <img src="./assets/Old-School-Projects.svg" width="16" height="16" alt="Old School Projects" /> [Old School Projects](https://github.com/AntoinePoisson/Old-School-Projects) : 108-project engineering archive, 2018–2023 — **[Explore ↗](https://antoinepoisson.github.io/Old-School-Projects/)**
 
 ## Contact
 
